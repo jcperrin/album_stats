@@ -1,4 +1,4 @@
-(first) Source,Artist,Album,Genre,JCP Rating,Chris Rating,:) Rating
+Source,Artist,Album,Genre,JCP Rating,Chris Rating,:) Rating
 NYTimes,Bad Bunny,x 100PRE,Reggaeton,0.2,,
 NYTimes,Ariana Grande,"thank u, next",Pop,0.5,,
 NYTimes,Sudan Archives,Athena,R&B,0.6,,0.7
@@ -7,11 +7,11 @@ NYTimes,Bon Iver,"i, i","Singer-Songwriter
 ",0.3,0.5,0.6
 NYTimes,Lana Del Ray,Norman Fucking Rockwell,Rock,0.6,,
 NYTimes,Michael Kiwanuka,Kiwanuka,Jazz,0.8,,
-NYTimes,Black Midi,Schalgenheim,Metal?,0.3,0.3,
+NYTimes,Black Midi,Schalgenheim,Metal,0.3,0.3,
 NYTimes,Polo G,Die a Legend,"Rap
-",,,
-NYTimes,Kim Petras,Clarity,,,,
-NYTimes,Romeo Santos,Utopia,,,,
+",0.5,,
+NYTimes,Kim Petras,Clarity,Pop,0.5,,
+NYTimes,Romeo Santos,Utopia,Reggaeton,0.5,,
 NYTimes,Kalie Shorr,Open Book,,,,
 NYTimes,Baby Keem,Die for my Bitch,,,,
 NYTimes,Kanye West,Jesus is King,trash,,,0.1
@@ -65,4 +65,4 @@ Pitchfork,Angle Olsen,All Mirrors,,,,
 Pitchfork,Big Thief,U.F.O.F.,,,0.4,
 Pitchfork,FKA twigs,MAGDALENE,,0.3,,0.9
 ,,,,,,
-,,,Rater average:,0.5142857143,0.5533333333,0.5555555556
+,,,Rater average:,0.5117647059,0.5533333333,0.5555555556
