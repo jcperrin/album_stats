@@ -23,12 +23,14 @@ def plot_histograms(df):
                 )
     return sns.countplot(x="value", hue="variable", data=view)
 
-
-
-sns.set(context="talk", style="white")
-sns.set_palette("husl", 3)
-df = import_spreadsheet()
-df = clean_spreadsheet(df)
-g = plot_histograms(df)
-sns.despine()
-g.figure.savefig("../results/score_distribution.png", dpi=300, transparent=True)
+def main():
+    sns.set(context="talk", style="white")
+    sns.set_palette("husl", 3)
+    df = import_spreadsheet()
+    df = clean_spreadsheet(df)
+    g = plot_histograms(df)
+    sns.despine()
+    g.figure.savefig("../results/score_distribution.png", dpi=300, transparent=True)
+    
+if __name__ == '__main__':
+    main()
