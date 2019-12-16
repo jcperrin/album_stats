@@ -1,68 +1,71 @@
-Source,Artist,Album,Genre,JCP Rating,Chris Rating,:) Rating
-NYTimes,Bad Bunny,x 100PRE,Reggaeton,0.2,,
-NYTimes,Ariana Grande,"thank u, next",Pop,0.5,,
-NYTimes,Sudan Archives,Athena,R&B,0.6,,0.7
-NYTimes,iLe,Almadura,World,0.7,,
-NYTimes,Bon Iver,"i, i","Singer-Songwriter
+,Source,Artist,Album,Genre,JCP Rating,Chris Rating,:) Rating
+0,NYTimes,Bad Bunny,x 100PRE,Reggaeton,0.2,,
+1,NYTimes,Ariana Grande,"thank u, next",Pop,0.5,,
+2,NYTimes,Sudan Archives,Athena,R&B,0.6,,0.7
+3,NYTimes,iLe,Almadura,World,0.7,,
+4,NYTimes,Bon Iver,"i, i","Singer-Songwriter
 ",0.3,0.5,0.6
-NYTimes,Lana Del Ray,Norman Fucking Rockwell,Rock,0.6,,
-NYTimes,Michael Kiwanuka,Kiwanuka,Jazz,0.8,,
-NYTimes,Black Midi,Schalgenheim,Metal,0.3,0.3,
-NYTimes,Polo G,Die a Legend,"Rap
-",0.5,,
-NYTimes,Kim Petras,Clarity,Pop,0.5,,
-NYTimes,Romeo Santos,Utopia,Reggaeton,0.5,,
-NYTimes,Kalie Shorr,Open Book,,,,
-NYTimes,Baby Keem,Die for my Bitch,,,,
-NYTimes,Kanye West,Jesus is King,trash,,,0.1
-NYTimes,10k.Caash,The Creator,,,,
-NYTimes,Summer Walker,Over it,,,,
-NYTimes,Benny the Butcher,The Plugs I Met,,,,
-NYTimes,Taylor Swift,Lover,,,,
-NYTimes,100 Gecs,1000 Gecs,Pop,0.3,,0.7
-NYTimes,Brittany Howard,Jaime,R&B,0.6,,
-NYTimes,Santana,Africa Speaks,Jazz,0.5,,
-Pitchfork,Floating Points,Crush,Electronic,0.9,,
-Pitchfork,Faye Webster,Atlanta Millionaires Club,,,,
-Pitchfork,Danny Brown,uknowwhatimsayin?,Rap,,0.4,
-Pitchfork,Barker,Utility,Electronic,,,
-Pitchfork,Chai,PUNK,Japanese,,0.2,
-Pitchfork,DaBaby,Baby on Baby,Rap,,,
-Pitchfork,Holly Herndon,PROTO,,,,
-Pitchfork,Rico Nasty,Anger Management,,,0.5,
-Pitchfork,Blood Incantation,Hidden History of the Human Race,Metal,,,
-Pitchfork,Thom Yorke,ANIMA,,,,
-Pitchfork,Aldous Harding,Designer,,,,
-Pitchfork,RAP:,EXPORT,,,,
-Pitchfork,Nilufer Yanya,Miss Universe,,,0.8,
-Pitchfork,Denzel Curry,ZUU,,,,
-Pitchfork,Mannequin Pussy,Patience,,,0.9,
-Pitchfork,slowthai,Nothing Great About Britain,Grime,,,
-Pitchfork,Sharon Van Etten,Remind Me Tomorrow,,,,
-Pitchfork,MIKE,Tears of Joy,,,,
-Pitchfork,Oso Oso,Basking in the Glow,,,,
-Pitchfork,Nick Cave & the Bad Seeds,Ghosteen,,,,
-Pitchfork,Florist,Emily Alone,,0.6,,
-Pitchfork,Burna Boy,African Giant,,,,
-Pitchfork,Vampire Weekend,Father of the Bride,,,0.7,0.6
-Pitchfork,Kim Gordon,No Home Record,,,,
-Pitchfork,"Tyler, the Creator",IGOR,,,0.6,0.8
-Pitchfork,Cate Le Bon,Reward,,,0.9,
-Pitchfork,Jenny Hval,The Practice of Love,,,,
-Pitchfork,Jessica Pratt,Quiet Signs,Folk,,,
-Pitchfork,Clairo,Immunity,,,,0.3
-Pitchfork,(Sandy) Alex G,House of Sugar,,,,
-Pitchfork,Bill Callahan,Shepherd in a Sheepskin Vest,,,,
-Pitchfork,Beyonce,Homecoming: The Live Album,,,,0.3
-Pitchfork,Big Theif,Two Hands,,,0.3,
-Pitchfork,Jamila Woods,LEGACY! LEGACY!,,,0.8,
-Pitchfork,Purple Mountains,Purple Mountains,,,,
-Pitchfork,Weyes Blood,Titanic Rising,,,0.3,
-Pitchfork,Fennesz,Agora,,,,
-Pitchfork,Helado Negro,This is How You Smile,,,0.7,
-Pitchfork,Solange,When I Get Home,,,,
-Pitchfork,Angle Olsen,All Mirrors,,,,
-Pitchfork,Big Thief,U.F.O.F.,,,0.4,
-Pitchfork,FKA twigs,MAGDALENE,,0.3,,0.9
-,,,,,,
-,,,Rater average:,0.5117647059,0.5533333333,0.5555555556
+5,NYTimes,Lana Del Ray,Norman Fucking Rockwell,Rock,0.6,,
+6,NYTimes,Michael Kiwanuka,Kiwanuka,Jazz,0.8,,
+7,NYTimes,Black Midi,Schalgenheim,Metal,0.3,0.3,
+8,NYTimes,Polo G,Die a Legend,"Rap
+",0.4,,
+9,NYTimes,Kim Petras,Clarity,Pop,0.5,,
+10,NYTimes,Romeo Santos,Utopia,Reggaeton,0.4,,
+11,NYTimes,Kalie Shorr,Open Book,Country,0.5,,
+12,NYTimes,Baby Keem,Die for my Bitch,"Rap
+",0.3,,
+13,NYTimes,Kanye West,Jesus is King,trash,0.2,,0.1
+14,NYTimes,10k.Caash,The Creator,"Rap
+",0.1,,
+15,NYTimes,Summer Walker,Over it,R&B,0.4,,
+16,NYTimes,Benny the Butcher,The Plugs I Met,"Rap
+",0.4,,
+17,NYTimes,Taylor Swift,Lover,Pop,0.5,,
+18,NYTimes,100 Gecs,1000 Gecs,Pop,0.3,,0.7
+19,NYTimes,Brittany Howard,Jaime,R&B,0.6,,
+20,NYTimes,Santana,Africa Speaks,Jazz,0.5,,
+21,Pitchfork,Floating Points,Crush,Electronic,0.9,,
+22,Pitchfork,Faye Webster,Atlanta Millionaires Club,"Alternative
+",0.7,,
+23,Pitchfork,Danny Brown,uknowwhatimsayin?,Rap,0.3,0.4,
+24,Pitchfork,Barker,Utility,Electronic,0.7,,
+25,Pitchfork,Chai,PUNK,Japanese,0.6,0.2,
+26,Pitchfork,DaBaby,Baby on Baby,Rap,,,
+27,Pitchfork,Holly Herndon,PROTO,,,,
+28,Pitchfork,Rico Nasty,Anger Management,,,0.5,
+29,Pitchfork,Blood Incantation,Hidden History of the Human Race,Metal,,,
+30,Pitchfork,Thom Yorke,ANIMA,,,,
+31,Pitchfork,Aldous Harding,Designer,,,,
+32,Pitchfork,RAP:,EXPORT,,,,
+33,Pitchfork,Nilufer Yanya,Miss Universe,,,0.8,
+34,Pitchfork,Denzel Curry,ZUU,,,,
+35,Pitchfork,Mannequin Pussy,Patience,,,0.9,
+36,Pitchfork,slowthai,Nothing Great About Britain,Grime,,,
+37,Pitchfork,Sharon Van Etten,Remind Me Tomorrow,,,,
+38,Pitchfork,MIKE,Tears of Joy,,,,
+39,Pitchfork,Oso Oso,Basking in the Glow,,,,
+40,Pitchfork,Nick Cave & the Bad Seeds,Ghosteen,,,,
+41,Pitchfork,Florist,Emily Alone,,0.6,,
+42,Pitchfork,Burna Boy,African Giant,,,,
+43,Pitchfork,Vampire Weekend,Father of the Bride,,,0.7,0.6
+44,Pitchfork,Kim Gordon,No Home Record,,,,
+45,Pitchfork,"Tyler, the Creator",IGOR,,,0.6,0.8
+46,Pitchfork,Cate Le Bon,Reward,,,0.9,
+47,Pitchfork,Jenny Hval,The Practice of Love,,,,
+48,Pitchfork,Jessica Pratt,Quiet Signs,Folk,,,
+49,Pitchfork,Clairo,Immunity,,,,0.3
+50,Pitchfork,(Sandy) Alex G,House of Sugar,,,,
+51,Pitchfork,Bill Callahan,Shepherd in a Sheepskin Vest,,,,
+52,Pitchfork,Beyonce,Homecoming: The Live Album,,,,0.3
+53,Pitchfork,Big Theif,Two Hands,,,0.3,
+54,Pitchfork,Jamila Woods,LEGACY! LEGACY!,,,0.8,
+55,Pitchfork,Purple Mountains,Purple Mountains,,,,
+56,Pitchfork,Weyes Blood,Titanic Rising,,,0.3,
+57,Pitchfork,Fennesz,Agora,,,,
+58,Pitchfork,Helado Negro,This is How You Smile,,,0.7,
+59,Pitchfork,Solange,When I Get Home,,,,
+60,Pitchfork,Angle Olsen,All Mirrors,,,,
+61,Pitchfork,Big Thief,U.F.O.F.,,,0.4,
+62,Pitchfork,FKA twigs,MAGDALENE,,0.3,,0.9
+63,JCP,JPEGMAFIA,veteran,,22,,
