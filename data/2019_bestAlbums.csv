@@ -22,7 +22,7 @@
 16,NYTimes,Benny the Butcher,The Plugs I Met,"Rap
 ",0.4,,
 17,NYTimes,Taylor Swift,Lover,Pop,0.5,,
-18,NYTimes,100 Gecs,1000 Gecs,Pop,0.3,,0.7
+18,NYTimes,100 Gecs,1000 Gecs,Pop,0.4,,0.7
 19,NYTimes,Brittany Howard,Jaime,R&B,0.6,,
 20,NYTimes,Santana,Africa Speaks,Jazz,0.5,,
 21,Pitchfork,Floating Points,Crush,Electronic,0.9,,
@@ -31,7 +31,7 @@
 23,Pitchfork,Danny Brown,uknowwhatimsayin?,Rap,0.3,0.4,
 24,Pitchfork,Barker,Utility,Electronic,0.7,,
 25,Pitchfork,Chai,PUNK,Japanese,0.6,0.2,
-26,Pitchfork,DaBaby,Baby on Baby,Rap,,,
+26,Pitchfork,DaBaby,Baby on Baby,Rap,0.7,,
 27,Pitchfork,Holly Herndon,PROTO,,,,
 28,Pitchfork,Rico Nasty,Anger Management,,,0.5,
 29,Pitchfork,Blood Incantation,Hidden History of the Human Race,Metal,,,
@@ -68,4 +68,4 @@
 60,Pitchfork,Angle Olsen,All Mirrors,,,,
 61,Pitchfork,Big Thief,U.F.O.F.,,,0.4,
 62,Pitchfork,FKA twigs,MAGDALENE,,0.3,,0.9
-63,JCP,JPEGMAFIA,veteran,,22,,
+63,JCP,JPEGMAFIA,veteran,,0.6,,
