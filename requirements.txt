@@ -1,7 +1,7 @@
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-numpy==1.17.3
+numpy==1.22.0
 oauthlib==3.1.0
 pandas
 pickleshare==0.7.5
